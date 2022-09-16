@@ -2,6 +2,6 @@ hellow word
 ;;;;;;;
 ppppp
 ppppp
-ppppp
-ppppp
-ppppp
+pp
+pp
+pp
